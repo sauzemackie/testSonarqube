@@ -1,4 +1,0 @@
-PROC main()
-    WriteF('Hello, world!\n')
-ENDPROC
- 
